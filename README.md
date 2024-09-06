@@ -1,5 +1,5 @@
 ```markdown
-## Mesa Redonda - Busca de Jogos de Tabuleiro
+## Mesa Redonda - Busca de Jogos de Tabuleiro - Imersão Dev com Google Gemini
 
 ### Descrição
 Esta aplicação web simples permite que os usuários busquem jogos de tabuleiro por título, descrição ou tags. Ao digitar uma palavra-chave no campo de pesquisa, a aplicação filtra a lista de jogos e exibe os resultados relevantes.
